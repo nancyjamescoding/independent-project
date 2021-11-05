@@ -16,11 +16,10 @@
 .career {
     text-align: center;
     color:black;
-    color: lightgrey;
 }
 .github{
     text-align: center;
-    color:pink
+    color:blue;
 }
 .important{
     display: block;
