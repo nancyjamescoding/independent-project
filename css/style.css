@@ -1,7 +1,9 @@
 .heading {
     text-align: center;
     color:black;
-    background-color:green;
+    background-color: lightskyblue;
+    margin: 20px;
+    border: 2px solid black;
 }
 .center {
     display: block;
@@ -30,15 +32,12 @@
     padding-bottom: 10px;
     background-color:lavenderblush;
     margin: 20px;
-    mar
 }
-
 .important .about {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
-
 .unimportant {
     background-color:whitesmoke;
     display: block;
@@ -46,7 +45,6 @@
     margin-right: auto;
     margin: 20px;
 }
-
 .unimportant h3 {
     text-align: center;
 }
@@ -73,6 +71,7 @@ ul {
 .hobbies_and_interests .hobbies{
     float: left;
     width: 50%;
+    background-color: linen;
 }
 
 .hobbies_and_interests .hobbies h3{
@@ -80,7 +79,7 @@ ul {
     padding-left: 40px;
 }
 
-.hobbies_and_interests .interests h3{
+.hobbies_and_interests .interests h3 {
     text-align: left;
     padding-left: 40px;
 }
@@ -88,4 +87,5 @@ ul {
 .hobbies_and_interests .interests{
     float: right;
     width: 50%;
+    background-color: linen;
 }
