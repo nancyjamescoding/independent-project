@@ -1,6 +1,7 @@
 .heading {
     text-align: center;
     color:black;
+    background-color:green;
 }
 .center {
     display: block;
@@ -10,6 +11,7 @@
 .name {
     text-align: center;
     color:black;
+    font-size: large;
 }
 .career {
     text-align: center;
@@ -19,3 +21,39 @@
     text-align: center;
     color:pink
 }
+.important{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.important .about {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.unimportant {
+    background-color:ivory;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.unimportant h3 {
+    text-align: center;
+}
+.unimportant  ul {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color:khaki;
+    width: 40%;
+}
+ul {
+    list-style-type: none;
+  }
+
