@@ -89,3 +89,15 @@ ul {
     width: 50%;
     background-color: linen;
 }
+
+@media screen and (max-width: 885px) {
+    .hobbies_and_interests .hobbies{
+        width: 100%;
+        word-wrap: break-word;
+    }
+
+    .hobbies_and_interests .interests{
+        width: 100%;
+        word-wrap: break-word;
+    }
+}
